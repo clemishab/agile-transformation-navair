@@ -1,74 +1,70 @@
-# agile-transformation-navair
-Agile transformation case study from a classified program at NAVAIR, highlighting delivery leadership, coaching, and measurable results.
 # Agile Transformation – NAVAIR (Department of Defense)
 
 ## Overview
-This project highlights my role leading an Agile transformation within a classified program at NAVAIR, a division of the U.S. Department of Defense. The goal was to improve delivery speed, foster collaboration, and build scalable Agile practices across multiple teams and stakeholders.
+This case study outlines a scaled Agile transformation initiative within a classified DoD program at NAVAIR. The project focused on standardizing team delivery processes, improving visibility across teams, and increasing overall delivery predictability through structured planning, Agile ceremonies, and coaching.
 
 ---
 
-## My Role
-As Senior Agile Coach and later Branch Head, I led Agile delivery for 5+ cross-functional teams. My responsibilities included:
-
-- Owning the Agile roadmap and sprint structure
-- Coaching Scrum Masters, Product Owners, and technical leads
-- Leading PI planning, Scrum of Scrums, retrospectives, and standups
-- Building custom Jira dashboards to track velocity, blockers, and team health
-- Delivering reports and executive briefings to DoD leadership
-- Supporting hiring model reform as a White House Agile Policy Advisor
+## Project Scope
+- **Teams Involved:** 5 cross-functional Agile teams
+- **Duration:** ~6 months
+- **Framework:** SAFe / Hybrid Agile
+- **Tools Used:** Jira, Confluence, Azure DevOps, Power BI, Miro
 
 ---
 
-## Tools & Tech Stack
-- **Jira** – Sprint planning, backlog tracking, custom dashboards
-- **Confluence** – Documentation and SOPs
-- **Azure DevOps** – Sprint integrations and collaboration
-- **Miro** / **Lucidchart** – PI planning visual workflows
-- **PowerPoint** – Executive-level reporting and slide decks
+## Role & Responsibilities
+As Senior Agile Coach and Delivery Lead, my focus was on enabling teams to deliver more consistently, with fewer blockers, and better stakeholder alignment. Responsibilities included:
+
+- Facilitated sprint planning, retrospectives, daily standups, and Scrum of Scrums
+- Collaborated with Product Owners on backlog grooming and prioritization
+- Designed and implemented PI planning cadence to align delivery cycles across teams
+- Created custom Jira dashboards to visualize team velocity, active blockers, and sprint throughput
+- Developed onboarding materials and SOPs to support Agile adoption and cross-team consistency
+- Coached team leads and new Scrum Masters on Agile delivery principles and communication practices
 
 ---
 
-## Agile Process Highlights
-- Standardized PI cadence across all teams
-- Introduced Agile Maturity Models to track growth
-- Trained 60+ staff across engineering, leadership, and support
-- Created sprint planning templates, role definitions, and ceremony calendars
+## Tools & Technologies
+- **Jira:** Sprint tracking, dashboards, story mapping
+- **Confluence:** Knowledge base, SOPs, meeting notes
+- **Azure DevOps:** Coordination across engineering + release teams
+- **Miro / Lucidchart:** PI planning, workflow visuals
+- **Power BI:** Reporting KPIs to senior stakeholders
 
 ---
 
-## Stakeholder Collaboration
-Worked cross-functionally with:
-
-- Program and Portfolio Leaders
-- Federal Compliance Teams
-- DevSecOps and QA Engineers
-- Scrum Masters and Agile Coaches
-- Product Management and Technical Owners
+## Outcomes
+- Improved sprint planning effectiveness and backlog readiness across all 5 teams
+- Increased delivery predictability and reduced cross-team blockers by introducing PI cadence
+- Improved stakeholder visibility through standardized metrics and reporting dashboards
+- Reduced meeting friction by implementing structured Agile ceremonies and role clarity
 
 ---
 
-## Results
-- **40% improvement** in delivery speed and team velocity
-- Reduced dependencies and blockers through structured PI planning
-- Earned **Letter of Commendation** and **Agile Excellence Award** (2024)
-- Invited to the **White House** to present Agile hiring reforms for federal systems
+## Collaboration
+Worked closely with cross-functional stakeholders including:
+
+- Product Management
+- Engineering & QA
+- DevSecOps Teams
+- Portfolio Leadership
+- Federal Compliance & Security
 
 ---
 
-## Artifacts
-(Coming soon – redacted or mock examples)
-
-- 📄 PI Planning Overview (PDF)
-- 📊 Jira Dashboard Example (Mockup)
-- 📎 Agile Role Training Guide (Slides or Doc)
-- 📈 Executive Summary Slide Deck
+## Artifacts (Coming Soon)
+-  PI Planning Template (Redacted PDF or Mock)
+-  Jira Velocity Dashboard (Mock Screenshot)
+-  Agile Onboarding Guide (Doc or Slide Deck)
+-  Sprint Planning Checklist / Template
 
 ---
 
 ## Status
-✅ Completed – Framework adopted across programs
+Complete – Agile delivery framework transitioned to team ownership.
 
 ---
 
 ## Contact
-Feel free to connect or ask questions via [LinkedIn](https://www.linkedin.com/in/clemishab).
+To connect or ask questions, reach out via [LinkedIn](https://www.linkedin.com/in/clemishab).
